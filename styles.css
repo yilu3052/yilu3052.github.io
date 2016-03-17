@@ -1,0 +1,93 @@
+.column {
+  display: inline;
+}
+
+.column1 {
+  display: inline-block;
+  width: 10%;
+  height: 10%;
+
+}
+
+.column2 {
+  display: inline-block;
+  width: 10%;
+  height: 10%;
+
+}
+
+.column3 {
+  display: inline-block;
+  width: 10%;
+  height: 10%;
+
+}
+
+.column4 {
+  display: inline-block;
+  width: 10%;
+  height: 10%;
+
+}
+
+.row1 {
+  text-align: center;
+}
+
+.row2 {
+  text-align: center;
+}
+
+.row3 {
+  text-align: center;
+}
+
+.row4 {
+  text-align: center;
+}
+
+div[number="2"] {
+  color: blue;
+}
+
+div[number="4"] {
+  color: orange;
+}
+
+div[number="8"] {
+  color: green;
+}
+
+div[number="16"] {
+  color: red;
+}
+
+div[number="32"] {
+  color: pink;
+}
+
+div[number="64"] {
+  color: brown;
+}
+
+div[number="128"] {
+  color: Aqua ;
+}
+
+div[number="256"] {
+  color: BlueViolet;
+}
+
+div[number="512"] {
+  color:  CadetBlue;
+}
+
+div[number="1024"] {
+  color:  Crimson;
+}
+
+div[number="2048"] {
+  color:  DarkMagenta;
+}
+
+
